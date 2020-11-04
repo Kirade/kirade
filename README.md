@@ -5,7 +5,6 @@
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/postgresql.svg" alt="PostgreSQL" width="21px" height="21px"></a>
-
 <a href="https://aws.amazon.com/" title="AWS"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/aws.svg" alt="AWS" width="21px" height="21px"></a>
 
 - Stacks I've experienced are
