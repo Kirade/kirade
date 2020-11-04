@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kirade!](https://kirade.github.io) 👋
 
-- I’m platform developer at <a href="https://github.com/8percent" title="8percent"><img src="https://avatars1.githubusercontent.com/u/16668186?s=60&v=4" alt="8percent" width="21px" height="21px"></a>
+- I’m web developer at <a href="https://github.com/8percent" title="8percent"><img src="https://avatars1.githubusercontent.com/u/16668186?s=60&v=4" alt="8percent" width="21px" height="21px"></a>
 - I'm currently using <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/django.svg" alt="Django" width="21px" height="21px"></a>
 <a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/vue.svg" alt="Vue.js" width="21px" height="21px"></a>
